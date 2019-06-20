@@ -1,0 +1,36 @@
+tensorboard --logdir=result\{version}
+
+version
+1559803794 1000
+1559804726 10000
+
+
+python main.py --mode=train
+
+python main.py --mode=test --demo_model={version}
+
+python main.py --mode=demo --demo_model={version}
+
+python char_xxx, 在上一层python
+
+tensorboard --logdir=data_path_save\{version}
+
+versions:
+1521112368 原版
+1551944747 训练1
+1552023653 bert+update embedding
+1552900501 bert + target
+1553595268 电钻
+1553952864 料理机+300random+打标
+
+
+印度和巴基斯坦近日在克什米尔争议地区交火，印度F16被枭龙击落，莫迪以此煽动民族情绪，为自己连任争取选票
+印度和巴基斯坦近日在克什米尔争议地区交火，印度F16被枭龙击落，莫迪以此煽动民族情绪，为自己连任争取选票，联合国维和部门和中国外交部就印巴冲突发表了各自的立场。
+安倍晋三被老婆戴绿帽子
+法国黄马甲事件
+蔡徐坤打篮球视频辣眼睛
+刘凌云申请优秀毕业生
+料理机的搅拌功能很好
+熊猫直播被传破产，副总裁庄明浩已离职多日；阿里架构调整，淘宝总裁蒋凡兼任天猫总裁；沪江否认裁员千人传闻
+特朗普前私人律师科恩出席闭门听证会 提供新文件
+邱实在实验室买戴尔的显示屏
